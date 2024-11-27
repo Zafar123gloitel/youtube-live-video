@@ -13,6 +13,7 @@
   "dependencies": {
     "react": "18.2.0",
     "react-native": "0.72.3",
+    "react-native-webview": "^13.12.4",
     "twrnc": "^4.6.0"
   },
   "devDependencies": {
